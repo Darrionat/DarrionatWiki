@@ -16,6 +16,8 @@ This wiki is a work-in-progress, so not everything will be updated completely, a
 
 ## My Plugins
 
+{% page-ref page="plugins/command-cooldown/" %}
+
 {% page-ref page="plugins/custom-enchants+/" %}
 
 ## My Platforms
