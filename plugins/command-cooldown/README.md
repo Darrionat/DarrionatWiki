@@ -35,3 +35,9 @@ DevBukkit: [https://dev.bukkit.org/projects/command-cooldowns](https://dev.bukki
 * Cooldown bypass command
 * Cooldown bypass permissions
 
+{% page-ref page="commands-and-permissions.md" %}
+
+{% page-ref page="configuration-files/" %}
+
+{% page-ref page="trivia.md" %}
+
