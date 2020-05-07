@@ -4,6 +4,7 @@
 
 ## Plugins
 
+* [Command Cooldown](plugins/command-cooldown.md)
 * [Custom Enchants+](plugins/custom-enchants+/README.md)
   * [API](plugins/custom-enchants+/api.md)
   * [Commands & Permissions](plugins/custom-enchants+/commands-and-permissions.md)
