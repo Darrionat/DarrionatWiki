@@ -4,6 +4,7 @@
 
 ## Plugins
 
+* [Bans+](plugins/bans+.md)
 * [Command Cooldown](plugins/command-cooldown/README.md)
   * [Commands & Permissions](plugins/command-cooldown/commands-and-permissions.md)
   * [Configuration Files](plugins/command-cooldown/configuration-files/README.md)
