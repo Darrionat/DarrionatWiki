@@ -37,6 +37,7 @@ Songoda: [https://songoda.com/marketplace/product/customenchants.310](https://so
 * [Custom Blocks](custom-blocks.md)
 * [bStats Integration](trivia.md#bstats)
 * [Built-In API](api.md)
+* [WorldGuard Integration](enchants.md#worldguard)
 
 
 
