@@ -110,10 +110,7 @@ helpMessages:
 ### Polish
 
 ```text
-# Polish language by Kaspian#8508 <3
-# Polske tłumaczenie stworzone przez Kaspian#8508 <3
-# getExpDesc: ''
-prefix: '&8[&b&lEagle&7&lCraft&8]&7'
+prefix: '&7[&6CustomEnchants+&7]&f'
 noPermission: '&cBrak permisji'
 onlyPlayersOpenGui: '&cTylko gracze moga otworzyc to menu!'
 onlyPlayersCommand: '&cTylko gracze moga tego uzyc!'
