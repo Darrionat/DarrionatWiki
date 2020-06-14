@@ -29,6 +29,11 @@
   * [Scrolls](plugins/custom-enchants+/scrolls.md)
   * [Trivia](plugins/custom-enchants+/trivia.md)
 
+## Discord Bot
+
+* [SpigotMC Bot](discord-bot/spigotmc-bot/README.md)
+  * [Commands](discord-bot/spigotmc-bot/commands.md)
+
 ## Links
 
 * [Discord](http://discord.darrionatplugins.com/)
