@@ -6,6 +6,10 @@ description: >-
 
 # SpigotMC Bot
 
+{% hint style="warning" %}
+Notice: This bot utilizes both Spiget and SpigotMC api. SpigotMC's api may take a multiple hours for the version to be updated after a resource is updated. This means that the bot may not post updates for a few hours after an update is created on SpigotMC.
+{% endhint %}
+
 ![](../../.gitbook/assets/spigot.png)
 
 ## Description
