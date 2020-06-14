@@ -1,7 +1,5 @@
 ---
-description: >-
-  A bot with the ability to actively watch plugin updates and post them to a
-  channel
+description: A bot with the ability to watch plugin updates and post them to a channel
 ---
 
 # SpigotMC Bot
