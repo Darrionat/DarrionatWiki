@@ -12,7 +12,8 @@ Notice: This bot utilizes both Spiget and SpigotMC api. SpigotMC's api may take 
 
 ## Description
 
-The SpigotMC bot created by Darrionat is able to track plugin updates, look up plugins, and more!
+The SpigotMC bot created by Darrionat is able to track plugin updates, look up plugins, and more!   
+SpigotMC bot utilizes DiscordJS.
 
 ## [Invite Link](https://discord.com/oauth2/authorize?client_id=603751943982153740&scope=bot&permissions=8)
 
