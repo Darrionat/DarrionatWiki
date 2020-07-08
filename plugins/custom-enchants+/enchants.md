@@ -122,6 +122,18 @@ When the lores.yml file is changed, all custom enchanted items will be updated t
 | Autosmelt | x% of blocks will be automatically smelted  | 5 | NORMAL |
 | Ore Radar | Detect nearby ores within a x block radius. | 3 | RARE |
 
+### Axes
+
+| Enchantment | Description | Max Level | Default Rarity |
+| :--- | :--- | :--- | :--- |
+| Summoner | Summon x \(the same amount as level\) wither skulls that fire at your opponent | 3 | NORMAL |
+
+### Hoes
+
+| Enchantment | Description | Max Level | Default Rarity |
+| :--- | :--- | :--- | :--- |
+| Green Thumb | Affect dirt and grass in an x block radius | 3 | NORMAL |
+
 ### Books
 
 Books are also able to be enchanted. They function with all GUI's. Books can also be seen within the [Selector GUI](guis.md#selector-gui).
