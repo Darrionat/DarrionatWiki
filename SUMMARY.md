@@ -24,6 +24,7 @@
     * [lores.yml](plugins/custom-enchants+/configuration-files/untitled.md)
     * [messages.yml](plugins/custom-enchants+/configuration-files/messages.yml.md)
   * [Custom Blocks](plugins/custom-enchants+/custom-blocks.md)
+  * [Dependencies](plugins/custom-enchants+/dependencies.md)
   * [Enchantments](plugins/custom-enchants+/enchants.md)
   * [GUIs](plugins/custom-enchants+/guis.md)
   * [Scrolls](plugins/custom-enchants+/scrolls.md)

@@ -8,15 +8,12 @@ description: 'Custom enchants, scrolls, custom GUI''s, and more!'
 
 ## Description
 
-Custom Enchants+ is a custom enchantment plugin that offers many unique, never-seen-before enchantments. Some enchantments have been created by suggestions, creativity, and inspiration from other enchantments. This plugin allows **customization** to all enchants.  
+Custom Enchants+ is a custom enchantment plugin that offers many unique, never-seen-before enchantments. Some enchantments have been created by suggestions, creativity, and inspiration from other enchantments. This plugin allows **customization** for all enchantments.  
 
 
 ## Plugin Downloads & Changelogs
 
-Spigot MC: [https://www.spigotmc.org/resources/custom-enchants-plus.72678/](https://www.spigotmc.org/resources/custom-enchants-plus.72678/)  
-Songoda: [https://songoda.com/marketplace/product/customenchants.310](https://songoda.com/marketplace/product/customenchants.310)
-
-
+Spigot MC: [https://www.spigotmc.org/resources/custom-enchants-plus.72678/](https://www.spigotmc.org/resources/custom-enchants-plus.72678/)
 
 ## Features
 
@@ -30,14 +27,15 @@ Songoda: [https://songoda.com/marketplace/product/customenchants.310](https://so
 * 1.12-1.15 Support
 * [Advanced Commands](commands-and-permissions.md)
 * No Hard Dependencies
-* [Holographic Displays Integration](custom-blocks.md#holograms)
 * [ActionBar Integration](trivia.md#actionbar)
 * [Custom Sounds](trivia.md#sounds-and-particles)
 * [Custom Particles](trivia.md#sounds-and-particles)
 * [Custom Blocks](custom-blocks.md)
 * [bStats Integration](trivia.md#bstats)
 * [Built-In API](api.md)
-* [WorldGuard Integration](enchants.md#worldguard)
+* [HolographicDisplays Integration](dependencies.md#holographicdisplays)
+* [WorldGuard Integration](dependencies.md#worldguard)
+* [Towny Integration](dependencies.md#towny)
 
 
 
@@ -48,6 +46,8 @@ Songoda: [https://songoda.com/marketplace/product/customenchants.310](https://so
 {% page-ref page="configuration-files/" %}
 
 {% page-ref page="custom-blocks.md" %}
+
+{% page-ref page="dependencies.md" %}
 
 {% page-ref page="enchants.md" %}
 

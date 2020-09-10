@@ -12,11 +12,6 @@ A player can access the [enchanter ](guis.md#the-enchanter)[GUI ](guis.md)by usi
 
 Every enchantment contains a rarity, defined in the [enchants.yml](configuration-files/enchants.yml.md). These rarities are harder to obtain, in ascending order: NORMAL, RARE, AND LEGENDARY. The percentage for each type of rarity is defined within the [config.yml](configuration-files/config.yml.md).
 
-### WorldGuard
-
-All enchantments can be disabled through WorldGuard using the flag 'custom-enchants'.  
-To add this flag, just run the command: **/rg flag \[region name\] custom-enchants \[deny/allow\]**
-
 ### Slots
 
 Each enchantment uses a slot on the current item. The default max slots is defined within the config.yml. Max slots can be upgraded with the [Slot Upgrade Scroll](scrolls.md#slot-upgrade). Slots replaced the previous system of tiers.
