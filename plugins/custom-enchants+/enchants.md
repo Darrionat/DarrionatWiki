@@ -107,6 +107,14 @@ When the lores.yml file is changed, all custom enchanted items will be updated t
 | Hot Feet | Gain permanent fire resistance | 1 | NORMAL |
 | Featherweight | Gain permanent haste | 3 | NORMAL |
 
+### Tools
+
+Enchantments that can be applied to swords, axes, pickaxes, hoes, and shovels
+
+| Enchantment | Description | Max Level | Default Rarity |
+| :--- | :--- | :--- | :--- |
+| Telekinesis | Drops automatically go into the player's inventory | 1 | RARE |
+
 ### Pickaxes
 
 ![](../../.gitbook/assets/image%20%2812%29.png)
@@ -122,6 +130,7 @@ When the lores.yml file is changed, all custom enchanted items will be updated t
 | Enchantment | Description | Max Level | Default Rarity |
 | :--- | :--- | :--- | :--- |
 | Summoner | Summon x \(the same amount as level\) wither skulls that fire at your opponent | 3 | NORMAL |
+| Foraging | Cut down trees with one swing. Duration of x \(level\) seconds | 5 | NORMAL |
 
 ### Hoes
 
