@@ -6,7 +6,7 @@ description: Information about enchantments
 
 ## Enchanting
 
-A player can access the [enchanter ](guis.md#the-enchanter)[GUI ](guis.md)by using /enchantingtable \(/ench\) or by clicking on a [custom block](custom-blocks.md). Within the enchanter GUI, a player is able to add custom enchantments. An admin is also able to add custom enchantments with [commands](commands-and-permissions.md). All enchantments enchantments also hold a configurable [rarity ](enchants.md#rarities)and [lore](enchants.md#lores).
+A player can access the [enchanter ](guis.md#the-enchanter)[GUI ](guis.md)by using /enchantingtable \(/ench\) or by clicking on a [custom block](custom-blocks.md). Within the enchanter GUI, a player is able to add custom enchantments. An admin is also able to add custom enchantments with [commands](commands-and-permissions.md). All enchantments enchantments also hold a configurable [rarity ](enchants.md#rarities)and [lore](enchants.md#lores). Custom enchantments can also be acquired through the vanilla enchantment table, this can be customized in the [config.yml](../command-cooldown/configuration-files/config.yml.md).
 
 ### Rarities
 

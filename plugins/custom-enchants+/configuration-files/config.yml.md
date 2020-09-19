@@ -28,7 +28,11 @@ rarity:
   normalPercentage: 95
   rarePercentage: 4
   legendaryPercentage: 1
-upgradeTierOnCommand: false
+vanillaEnchantmentTable:
+  buttonPercentagesForCustomEnchant:
+    1: 25
+    2: 50
+    3: 75
 holograms:
   enabled: false
   addItemLine: true
@@ -42,6 +46,10 @@ holograms:
   tinker:
     - '&eSacrafice &7your enchantments for'
     - '&eexperience &7in &eThe Tinkerer'
+worldguard:
+  enabled: false
+towny:
+  enabled: false
 scrolls:
   enchantmentRemovalScroll:
     percentage: 5
