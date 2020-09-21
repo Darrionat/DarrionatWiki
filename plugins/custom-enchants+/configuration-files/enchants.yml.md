@@ -63,9 +63,18 @@ FlamingAura:
   enabled: true
   name: '&9Flaming Aura'
   rarity: NORMAL
+Foraging:
+  enabled: true
+  name: '&9Foraging'
+  rarity: NORMAL
+  timePerLevel: 1
 FreezingCore:
   enabled: true
   name: '&9Freezing Core'
+  rarity: NORMAL
+GreenThumb:
+  enabled: true
+  name: '&9Green Thumb'
   rarity: NORMAL
 GodofThunder:
   enabled: true
@@ -162,6 +171,10 @@ SugarRush:
   enabled: true
   name: '&9Sugar Rush'
   rarity: NORMAL
+Summoner:
+  enabled: true
+  name: '&9Summoner'
+  rarity: NORMAL
 Swagger:
   enabled: true
   name: '&9Swagger'
@@ -180,6 +193,10 @@ Telebow:
   ActionBar:
     Enabled: true
     Message: '&cTelebow: %time%s remaining'
+Telekinesis:
+  enabled: true
+  name: '&9Telekinesis'
+  rarity: RARE
 Thrust:
   enabled: true
   name: '&9Thrust'

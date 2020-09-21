@@ -113,7 +113,7 @@ Enchantments that can be applied to swords, axes, pickaxes, hoes, and shovels
 
 | Enchantment | Description | Max Level | Default Rarity |
 | :--- | :--- | :--- | :--- |
-| Telekinesis | Drops automatically go into the player's inventory | 1 | RARE |
+| Telekinesis | Drops automatically go into the player's inventory. Cooperative with [Foraging](enchants.md#axes) | 1 | RARE |
 
 ### Pickaxes
 
@@ -130,7 +130,7 @@ Enchantments that can be applied to swords, axes, pickaxes, hoes, and shovels
 | Enchantment | Description | Max Level | Default Rarity |
 | :--- | :--- | :--- | :--- |
 | Summoner | Summon x \(the same amount as level\) wither skulls that fire at your opponent | 3 | NORMAL |
-| Foraging | Cut down trees with one swing. Duration of x \(level\) seconds | 5 | NORMAL |
+| Foraging | Cut down trees with one swing. Duration of \(x \* level\) seconds | 5 | NORMAL |
 
 ### Hoes
 

@@ -69,7 +69,7 @@ HotFeet:
 - '&7Permanent &cFire-Resistance'
 Overlord:
 - '&7Increase your &chealth'
-- '&7by &c%health% &7while wearing'
+- '&7by &c%health% hearts &7while wearing'
 Featherweight:
 - '&7Permanent &eHaste %level%'
 LuckyStrike:
@@ -117,5 +117,17 @@ Autosmelt:
 OreRadar:
 - '&7Detect nearby &bores &7in a &a%radius% block'
 - '&7radius. (&eRight-Click&7) item to toggle'
+GreenThumb:
+- '&7Affect dirt and grass in'
+- '&7a &a%radius% &7block radius'
+Summoner:
+- '&dSummon &cWither Skulls &7when hitting'
+- '&7an opponent, &a5% chance'
+Foraging:
+- '&7Let your axe take control'
+- '&7and take down trees easily for &a%time%s'
+Telekinesis:
+- '&7All drops will be automatically'
+- '&aadded &7to your inventory'
 ```
 
