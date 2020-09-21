@@ -31,7 +31,7 @@ Enchantment levels are displayed in roman numerals.
 
 #### Lore Updater
 
-When the lores.yml file is changed, all custom enchanted items will be updated to the same format. The updater is ran when a player joins, a player opens an inventory, and when the `/ce updateitems [player]` command is ran. The lore updater will run through the inventories of chests when opened. The lore updater was implemented in update [v3.0 BETA](https://www.spigotmc.org/resources/%E2%9C%A8custom-enchants-plus-35-enchants-scrolls-actionbar-1-12-1-15%E2%9C%A8.72678/update?update=333093). It was proven useful because v3.0 introduced [slots](enchants.md#slots), so there were no major bugs within the lore. The lore updater also works on [Scrolls](scrolls.md).
+When the lores.yml file is changed, all custom enchanted items will be updated to the same format. The updater is ran when a player joins, a player opens an inventory, and when the `/ce updateitems [player]` command is ran. The lore updater will run through the inventories of chests when opened. The lore updater was implemented in update [v3.0 BETA](https://www.spigotmc.org/resources/%E2%9C%A8custom-enchants-plus-35-enchants-scrolls-actionbar-1-12-1-15%E2%9C%A8.72678/update?update=333093). It was proven useful because v3.0 introduced [slots](enchants.md#slots), so there were no major bugs within the lore. The lore updater also works on [Scrolls](scrolls.md). The lore updater does not affect any part of the lore that is not part of Custom Enchants+
 
 ### Bows
 
