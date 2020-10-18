@@ -43,4 +43,5 @@ Permission: customenchants.admin
 | :--- | :--- |
 | customenchants.\* | Gives all permissions |
 | customenchants.ignoreworlds | Allows a player to ignore disabled worlds |
+| customenchants.towny.bypass | Allows a player to bypass CustomEnchants+ Towny protection, if Towny is enabled. |
 

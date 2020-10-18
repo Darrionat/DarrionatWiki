@@ -22,7 +22,8 @@ Custom Enchants+ has a soft dependency on Holographic Displays. This allows for 
 
 ### **Towny**
 
-Towny integration can add protection and function properly with claims made through Towny. If a player is in a town, it will check to see if they are in a plot. If they are, it will check to see if they have permission, and if they aren't it will check to see if they are a resident of the town. _If the player is the owner, a resident, or a friend of the plot owner, they are able to use custom enchantments within the plot._
+Towny integration can add protection and function properly with claims made through Towny. If a player is in a town, it will check to see if they are in a plot. If they are, it will check to see if they have permission, and if they aren't it will check to see if they are a resident of the town. _If the player is the owner, a resident, or a friend of the plot owner, they are able to use custom enchantments within the plot._  
+A player may bypass protection with the [permission ](commands-and-permissions.md#other-permissions)**customenchants.towny.bypass**
 
 ### WorldGuard
 
