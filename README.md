@@ -4,7 +4,7 @@ description: The official wiki for Darrionat's Plugins
 
 # Welcome
 
-![](.gitbook/assets/darrionatpluginsdiscord-square.png)
+![](.gitbook/assets/darrionatpluginsdiscord2-square.png)
 
 ## About Me
 
