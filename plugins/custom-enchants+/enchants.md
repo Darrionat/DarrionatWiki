@@ -6,7 +6,7 @@ description: Information about enchantments
 
 ## Enchanting
 
-A player can access the [enchanter ](guis.md#the-enchanter)[GUI ](guis.md)by using /enchantingtable \(/ench\) or by clicking on a [custom block](custom-blocks.md). Within the enchanter GUI, a player is able to add custom enchantments. An admin is also able to add custom enchantments with [commands](commands-and-permissions.md). All enchantments enchantments also hold a configurable [rarity ](enchants.md#rarities)and [lore](enchants.md#lores). Custom enchantments can also be acquired through the vanilla enchantment table, this can be customized in the [config.yml](../command-cooldown/configuration-files/config.yml.md).
+A player can access the [enchanter ](guis.md#the-enchanter)[GUI ](guis.md)by using /enchantingtable \(/ench\), by clicking on a [custom block](custom-blocks.md), or by using an [Enchantment Token](enchants.md#enchantment-tokens). Within the enchanter GUI, a player is able to add custom enchantments. An admin is also able to add custom enchantments with [commands](commands-and-permissions.md). All enchantments enchantments also hold a configurable [rarity ](enchants.md#rarities)and [lore](enchants.md#lores). Custom enchantments can also be acquired through the vanilla enchantment table, this can be customized in the [config.yml](../command-cooldown/configuration-files/config.yml.md). 
 
 ### Rarities
 
@@ -32,6 +32,12 @@ Enchantment levels are displayed in roman numerals.
 #### Lore Updater
 
 When the lores.yml file is changed, all custom enchanted items will be updated to the same format. The updater is ran when a player joins, a player opens an inventory, and when the `/ce updateitems [player]` command is ran. The lore updater will run through the inventories of chests when opened. The lore updater was implemented in update [v3.0 BETA](https://www.spigotmc.org/resources/%E2%9C%A8custom-enchants-plus-35-enchants-scrolls-actionbar-1-12-1-15%E2%9C%A8.72678/update?update=333093). It was proven useful because v3.0 introduced [slots](enchants.md#slots), so there were no major bugs within the lore. The lore updater also works on [Scrolls](scrolls.md). The lore updater does not affect any part of the lore that is not part of Custom Enchants+
+
+### Enchantment Tokens
+
+Enchantment tokens are simple items that can be acquired through the `/ce giveToken [enchantment] [level] [player]`  command. Enchantment tokens may be applied to any items that are compatible with them. The enchantments follow the same rules for compatibility; however, enchantments that already exist on the item **can be upgraded** by adding an enchantment token with a **higher level** of the enchantment. 
+
+![](../../.gitbook/assets/javaw_sn8hcij3ir.png)
 
 ### Bows
 

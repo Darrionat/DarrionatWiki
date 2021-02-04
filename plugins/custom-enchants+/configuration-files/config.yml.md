@@ -56,35 +56,42 @@ scrolls:
     material: REDSTONE
     name: '&cEnchantment Removal Scroll'
     lore:
-      - '&7Drag and drop this onto a custom &denchanted &7item to'
+      - '&7Drag and drop this on to a custom &denchanted &7item to'
       - '&7choose an &dEnchantment &7to &cremove permanently.'
   enchantmentUpgradeScroll:
     material: EMERALD
     percentage: 5
     name: '&aEnchantment Upgrade Scroll'
     lore:
-      - '&7Drag and drop this onto a custom &denchanted &7item to'
+      - '&7Drag and drop this on to a custom &denchanted &7item to'
       - '&7choose an enchantment &aupgrade.'
   slotUpgradeScroll:
     material: PAPER
     percentage: 5
     name: '&aSlot Upgrade Scroll'
     lore:
-      - '&7Drag and drop this onto a custom &denchanted'
+      - '&7Drag and drop this on to a custom &denchanted'
       - '&7item to get &a+1 Slot&7.'
   itemRepairScroll:
     material: ANVIL
     percentage: 5
     name: '&cItem Repair Scroll'
     lore:
-      - '&7Drag and drop this onto a custom &denchanted &7item'
+      - '&7Drag and drop this on to a custom &denchanted &7item'
       - '&7to &creapir &7all durability'
   renamingScroll:
     material: NAME_TAG
     percentage: 5
     name: '&eRenaming Scroll'
     lore:
-      - '&7Drag and drop this onto a custom &denchanted'
+      - '&7Drag and drop this on to a custom &denchanted'
       - '&7item to &erename &7it.'
+enchantmentToken:
+  material: SUNFLOWER
+  name: '&dEnchantment Token &7- %enchantment%'
+  lore:
+    - '&7Drag and drop this on to any item you want to apply'
+    - '&7the &denchantment &7on to. Only works with compatible'
+    - '&eitems &7and &denchantments&7.'
 ```
 

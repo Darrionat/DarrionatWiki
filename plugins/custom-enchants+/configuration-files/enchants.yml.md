@@ -110,6 +110,12 @@ LuckyStrike:
   ActionBar:
     Enabled: true
     Message: '&cLucky Strike: 3x Damage Inflicted'
+Mage:
+  enabled: true
+  name: '&9Mage'
+  rarity: RARE
+  radius: 3
+  damage: 6
 Magnet:
   enabled: true
   name: '&9Magnet'

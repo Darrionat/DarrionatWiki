@@ -28,8 +28,9 @@ The console will only be able to use  the commands that are marked **true** 'Con
 | /ce enableworld \[world\] | Enables the world the player is currently in. \[world\] is optional for players, but required for the console. | **true** |
 | /ce disableworld | Disables the world the player is currently in. \[world\] is optional for players, but required for the console. | **true** |
 | /ce worldlist | Sends a message for all enabled worlds | **true** |
-| /ce updateitems \[player\] | Runs the automatic lore updater through a player's inventory and enderchest | **true** |
+| /ce updateitems \[player\] | Runs the automatic lore updater through a player's inventory and enderchest. To affect all players, use the "**\***" argument instead of a player name. | **true** |
 | /ce givescroll \[player\] \[scroll\] | Gives a certain scroll to a player | **true** |
+| /ce giveToken \[enchantment\] \[enchantment Level\] \[player\] | Gives an enchantment token to a player. To affect all players, use the "**\***" argument instead of a player name. | **true** |
 
 ### Other Commands
 
