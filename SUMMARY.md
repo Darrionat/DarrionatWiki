@@ -30,6 +30,7 @@
   * [Enchantments](plugins/custom-enchants+/enchants.md)
   * [GUIs](plugins/custom-enchants+/guis.md)
   * [Scrolls](plugins/custom-enchants+/scrolls.md)
+  * [Wands](plugins/custom-enchants+/wands.md)
   * [Trivia](plugins/custom-enchants+/trivia.md)
 
 ## Discord Bot

@@ -6,7 +6,7 @@ description: Information about enchantments
 
 ## Enchanting
 
-A player can access the [enchanter ](guis.md#the-enchanter)[GUI ](guis.md)by using /enchantingtable \(/ench\), by clicking on a [custom block](custom-blocks.md), or by using an [Enchantment Token](enchants.md#enchantment-tokens). Within the enchanter GUI, a player is able to add custom enchantments. An admin is also able to add custom enchantments with [commands](commands-and-permissions.md). All enchantments enchantments also hold a configurable [rarity ](enchants.md#rarities)and [lore](enchants.md#lores). Custom enchantments can also be acquired through the vanilla enchantment table, this can be customized in the [config.yml](../command-cooldown/configuration-files/config.yml.md). 
+A player can access the [enchanter ](guis.md#the-enchanter)[GUI ](guis.md)by using /enchantingtable \(/ench\), by clicking on a [custom block](custom-blocks.md), or by using an [Enchantment Token](enchants.md#enchantment-tokens). Within the enchanter GUI, a player is able to add custom enchantments. An admin is also able to add custom enchantments with [commands](commands-and-permissions.md). All enchantments also hold a configurable [rarity ](enchants.md#rarities)and [lore](enchants.md#lores). Custom enchantments can also be acquired through the vanilla enchantment table, this can be customized in the [config.yml](../command-cooldown/configuration-files/config.yml.md). 
 
 ### Rarities
 
@@ -18,7 +18,7 @@ Each enchantment uses a slot on the current item. The default max slots is defin
 
 ### Lores
 
-Each enchantment has a lore. Lores can be configured within the [lores.yml](configuration-files/untitled.md) config. Lores are displayed by this format...
+Each enchantment has a lore. Lores can be configured within the [lores.yml](configuration-files/untitled.md) config. Lores are displayed in this format...
 
 ```text
 [Enchantment Name] [Level]
@@ -31,11 +31,11 @@ Enchantment levels are displayed in roman numerals.
 
 #### Lore Updater
 
-When the lores.yml file is changed, all custom enchanted items will be updated to the same format. The updater is ran when a player joins, a player opens an inventory, and when the `/ce updateitems [player]` command is ran. The lore updater will run through the inventories of chests when opened. The lore updater was implemented in update [v3.0 BETA](https://www.spigotmc.org/resources/%E2%9C%A8custom-enchants-plus-35-enchants-scrolls-actionbar-1-12-1-15%E2%9C%A8.72678/update?update=333093). It was proven useful because v3.0 introduced [slots](enchants.md#slots), so there were no major bugs within the lore. The lore updater also works on [Scrolls](scrolls.md). The lore updater does not affect any part of the lore that is not part of Custom Enchants+
+When the lores.yml file is changed, all custom enchanted items will be updated to the same format. The updater runs when a player joins, a player opens an inventory, and when the `/ce updateitems [player]` command is ran. The lore updater will run through the inventories of chests when opened. The lore updater was implemented in update [v3.0 BETA](https://www.spigotmc.org/resources/%E2%9C%A8custom-enchants-plus-35-enchants-scrolls-actionbar-1-12-1-15%E2%9C%A8.72678/update?update=333093). It was proven useful because v3.0 introduced [slots](enchants.md#slots), so there were no major bugs within the lore. The lore updater also works on [Scrolls](scrolls.md). The lore updater does not affect any part of the lore that is not part of Custom Enchants+
 
 ### Enchantment Tokens
 
-Enchantment tokens are simple items that can be acquired through the `/ce giveToken [enchantment] [level] [player]`  command. Enchantment tokens may be applied to any items that are compatible with them. The enchantments follow the same rules for compatibility; however, enchantments that already exist on the item **can be upgraded** by adding an enchantment token with a **higher level** of the enchantment. 
+Enchantment tokens are simple items that can be acquired through the command`/ce giveToken [enchantment] [level] [player]`. Enchantment tokens may be applied to any items that are compatible with them. The enchantments follow the same rules for compatibility; however, enchantments that already exist on the item **can be upgraded** by adding an enchantment token with a **higher level** of the enchantment. 
 
 ![](../../.gitbook/assets/javaw_sn8hcij3ir.png)
 
@@ -100,7 +100,7 @@ Enchantment tokens are simple items that can be acquired through the `/ce giveTo
 | Natural Healing | Gain Regeneration for 5s when hit | 3 | RARE |
 | Sugar Rush | Gain speed while wearing these pants. x% faster | 5 | NORMAL |
 | Sneak Attack | Teleport behind your enemy by sneaking when attacked | 3 | NORMAL |
-| Flaming Aura | Have a x% chance to set your enemy on fire | 4 | NORMAL |
+| Flaming Aura | Have an x% chance to set your enemy on fire | 4 | NORMAL |
 
 ### Boots
 
@@ -127,9 +127,9 @@ Enchantments that can be applied to swords, axes, pickaxes, hoes, and shovels
 
 | Enchantment | Description | Max Level | Default Rarity |
 | :--- | :--- | :--- | :--- |
-| Knowledge | Have a x% chance to get 2x EXP while mining | 5 | NORMAL |
+| Knowledge | Have an x% chance to get 2x EXP while mining | 5 | NORMAL |
 | Autosmelt | x% of blocks will be automatically smelted  | 5 | NORMAL |
-| Ore Radar | Detect nearby ores within a x block radius. | 3 | RARE |
+| Ore Radar | Detect nearby ores within an x block radius. | 3 | RARE |
 
 ### Axes
 
@@ -143,6 +143,12 @@ Enchantments that can be applied to swords, axes, pickaxes, hoes, and shovels
 | Enchantment | Description | Max Level | Default Rarity |
 | :--- | :--- | :--- | :--- |
 | Green Thumb | Affect dirt and grass in an x block radius | 3 | NORMAL |
+
+### Wands
+
+| Enchantment | Description | Max Level | Default Rarity |
+| :--- | :--- | :--- | :--- |
+| Mage | Shoot rays of magic towards your target \(Default Cooldown = 5 seconds, customizable\) | 1 | RARE |
 
 ### Books
 

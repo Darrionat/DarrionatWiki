@@ -38,7 +38,7 @@ MegaLongBow:
 - '&aJump Boost %jumpBoostLevel% (%jumpBoostLevel%s)'
 ComboStun:
 - '&7Every &efifth &7hit will'
-- '&estun &7your opponents for %time%s'
+- '&estun &7your opponent for %time%s'
 Pullbow:
 - '&7Pull %target%'
 - '&7when shot (7s cooldown)'
@@ -69,7 +69,7 @@ HotFeet:
 - '&7Permanent &cFire-Resistance'
 Overlord:
 - '&7Increase your &chealth'
-- '&7by &c%health% &7while wearing'
+- '&7by &c%health% hearts &7while wearing'
 Featherweight:
 - '&7Permanent &eHaste %level%'
 LuckyStrike:
@@ -104,7 +104,7 @@ Thrust:
 - '&7enemy with &bPunch %punch%'
 HealingTouch:
 - '&aHeal &7both you and who you'
-- '&7strike by &c%hearts% ❤'
+- '&7strike by &c%hearts% hearts'
 Homing:
 - '&7Arrows will &chome &7to targets'
 - '&7within a &a%radius% block &7radius'
@@ -122,17 +122,15 @@ GreenThumb:
 - '&7a &a%radius% &7block radius'
 Summoner:
 - '&dSummon &cWither Skulls &7when hitting'
-- '&7an opponent, &a5% chance'
+- '&7an opponent'
 Foraging:
 - '&7Let your axe take control'
-- '&7and take down trees easily for &a%level%&7s'
+- '&7and take down trees easily for &a%time%s'
 Telekinesis:
 - '&7All drops will be automatically'
 - '&aadded &7to your inventory'
 Mage:
 - '&7Shoot rays of &dmagic &7towards'
-- '&7your target (5s cooldown)'
-version: 4.1.1
-
+- '&7your target (%cooldown%s cooldown)'
 ```
 

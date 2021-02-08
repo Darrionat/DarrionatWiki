@@ -93,5 +93,10 @@ enchantmentToken:
     - '&7Drag and drop this on to any item you want to apply'
     - '&7the &denchantment &7on to. Only works with compatible'
     - '&eitems &7and &denchantments&7.'
+wand:
+  crafting:
+    enabled: true
+  material: BLAZE_ROD
+  name: '&dMystical Wand'
 ```
 

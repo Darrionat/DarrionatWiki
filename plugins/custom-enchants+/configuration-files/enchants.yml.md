@@ -116,6 +116,10 @@ Mage:
   rarity: RARE
   radius: 3
   damage: 6
+  cooldown: 5
+  actionBar:
+    enabled: true
+    message: '&dMage: %time%s remaining'
 Magnet:
   enabled: true
   name: '&9Magnet'
