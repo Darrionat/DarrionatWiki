@@ -46,10 +46,6 @@ holograms:
   tinker:
     - '&eSacrafice &7your enchantments for'
     - '&eexperience &7in &eThe Tinkerer'
-worldguard:
-  enabled: false
-towny:
-  enabled: false
 scrolls:
   enchantmentRemovalScroll:
     percentage: 5

@@ -17,14 +17,15 @@ Spigot MC: [https://www.spigotmc.org/resources/custom-enchants-plus.72678/](http
 
 ## Features
 
-* 35 [Custom Enchants](enchants.md)
+* 40+ [Custom Enchants](enchants.md)
 * 5 [Scrolls](scrolls.md)
+* [Wands](wands.md)
 * 3 [Animated Custom Gui's](guis.md)
   * [Enchanter ](guis.md#the-enchanter)- Obtain Custom Enchantments
   * [Tinkerer ](guis.md#the-tinkerer)- Exchange Enchants for EXP
   * [Anvil ](guis.md#the-anvil)- Forge Items Together
 * [Highly Configurable](configuration-files/)
-* 1.12-1.15 Support
+* 1.12-1.16.x Support
 * [Advanced Commands](commands-and-permissions.md)
 * No Hard Dependencies
 * [ActionBar Integration](trivia.md#actionbar)
@@ -34,8 +35,6 @@ Spigot MC: [https://www.spigotmc.org/resources/custom-enchants-plus.72678/](http
 * [bStats Integration](trivia.md#bstats)
 * [Built-In API](api.md)
 * [HolographicDisplays Integration](dependencies.md#holographicdisplays)
-* [WorldGuard Integration](dependencies.md#worldguard)
-* [Towny Integration](dependencies.md#towny)
 
 
 
