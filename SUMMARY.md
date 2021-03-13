@@ -32,6 +32,18 @@
   * [Scrolls](plugins/custom-enchants+/scrolls.md)
   * [Wands](plugins/custom-enchants+/wands.md)
   * [Trivia](plugins/custom-enchants+/trivia.md)
+* [PrisonPick](plugins/prisonpick/README.md)
+  * [Commands & Permissions](plugins/prisonpick/commands-and-permissions.md)
+  * [Configuration Files](plugins/prisonpick/configuration-files/README.md)
+    * [config.yml](plugins/prisonpick/configuration-files/config.yml-1.0.2.md)
+    * [enchants.yml](plugins/prisonpick/configuration-files/enchants.yml-1.0.2.md)
+    * [messages.yml](plugins/prisonpick/configuration-files/messages.yml-1.0.2.md)
+  * [Dependencies](plugins/prisonpick/dependencies.md)
+  * [Enchantments](plugins/prisonpick/enchantments.md)
+  * [GUIs](plugins/prisonpick/guis.md)
+  * [Inventory Management](plugins/prisonpick/inventory-management.md)
+  * [Placeholders](plugins/prisonpick/placeholders.md)
+  * [Saving Data](plugins/prisonpick/saving-data.md)
 
 ## Discord Bot
 
