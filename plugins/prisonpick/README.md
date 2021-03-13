@@ -1,3 +1,7 @@
+---
+description: Prison Servers | Enchant Upgrades | Inventory Management
+---
+
 # PrisonPick
 
 PrisonPick completely changes your Prison server and will add a fun new leveling aspect to it! Every player is given a unique pickaxe that they can upgrade with enchantments.
