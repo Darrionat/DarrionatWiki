@@ -22,6 +22,8 @@ This wiki is a work-in-progress, so not everything will be updated completely, a
 
 {% page-ref page="plugins/custom-enchants+/" %}
 
+{% page-ref page="plugins/prisonpick/" %}
+
 ## My Platforms
 
 ## Help contribute to my development!
