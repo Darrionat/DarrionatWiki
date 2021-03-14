@@ -4,6 +4,8 @@ description: Custom items that can be crafted which hold unique enchantments
 
 # Wands
 
+![Usage of the wand enchantment Mage](../../.gitbook/assets/wand-enchantment-customenchantsplus-resized.gif)
+
 ### Obtaining a Wand
 
 Wands are obtainable via crafting. The crafting recipe for a Wand is 2 diamonds in a vertical line above a blaze rod \(a sword formation with the blaze rod as the stick\). The recipe is not customizable; however, it most likely will be in the future.
