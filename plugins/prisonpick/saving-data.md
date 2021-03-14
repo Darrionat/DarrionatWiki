@@ -31,9 +31,15 @@ The `/prisonpick syncData [file/db] confirm` command is a very unique command an
 The `confirm` argument exists to protect users from running this command accidentally or using it incorrectly. It must be remembered that the location you specify will be the **FROM** and the location you don't specify will be the **TO**. 
 {% endhint %}
 
-**Sync Data Example**
+**File to Database Sync Example**
 
 You just enabled my database, but you've been running PrisonPick for quite some time, so a lot of my players have statistics. To minimize the number of workarounds you have to do, there's a command built directly for this. To copy the stats from the [local files](saving-data.md#local-file) found within the data folder to the database, you just type `/prisonpick syncData file confirm`.
+
+#### Database to File Sync Example
+
+You have a server that's been using PrisonPick and a MySQL database, and you are planning on setting up another server on your network that uses the same data as the other. It's not necessary if you are using a database, but highly recommended that you run the command `/prisonpick syncdata db confirm` on the newer server. This will sync the data from the database to this new server.  
+  
+Even though within this example the local files are not being used, if a database occurs, PrisonPick will use the local file instead, so making sure both are the same is good practice.
 
 {% hint style="danger" %}
 Take caution while using this command. Syncing data **will overwrite** data if the data is not the same.
