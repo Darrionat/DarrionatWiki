@@ -20,6 +20,7 @@ Commands that directly affect a player using the command cannot be run by the co
 | /prisonpick removePickaxe \[player\] | Removes a pickaxe from a specified player | true |
 | /prisonpick resetPlayer \[player\] | Resets all of a player's enchantments and their blocks mined to 0 | true |
 | /prisonpick setEnchant \[player\] \[enchant\] \[level\] | Sets a player's level for a specific enchantment | true |
+| /prisonpick syncData \[file/db\] confirm | Copies all player data from the given location to the other location. More info [here](saving-data.md#the-sync-data-command). | true |
 
 ### Permissions
 
