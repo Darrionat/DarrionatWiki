@@ -25,10 +25,17 @@ If the option `getEnchantsFromItem` is enabled within the [enchants.yml](configu
 
 ### The Sync Data Command
 
-The `/prisonpick syncData [file/db] confirm` command is a very unique command and one that probably won't be used often. This command copies all existing data from the given location and also sets those values at the other. It will not remove any other existing data, but it will overwrite pre-existing stats for a player.   
-  
-**Sync Data Example**:  
-You just enabled my database, but you've been running PrisonPick for quite some time, so a lot of my players have statistics. To minimize the number of workarounds you have to do, there's a command built directly for this. To copy the stats from the [local files](saving-data.md#local-file) found within the data folder to the database, you just type `/prisonpick syncData file confirm`.  
-  
+The `/prisonpick syncData [file/db] confirm` command is a very unique command and one that probably won't be used often. This command copies all existing data from the given location and also sets those values at the other. **It will not remove any other existing data, but it will overwrite pre-existing stats for a player.** 
+
+{% hint style="info" %}
 The `confirm` argument exists to protect users from running this command accidentally or using it incorrectly. It must be remembered that the location you specify will be the **FROM** and the location you don't specify will be the **TO**. 
+{% endhint %}
+
+**Sync Data Example**
+
+You just enabled my database, but you've been running PrisonPick for quite some time, so a lot of my players have statistics. To minimize the number of workarounds you have to do, there's a command built directly for this. To copy the stats from the [local files](saving-data.md#local-file) found within the data folder to the database, you just type `/prisonpick syncData file confirm`.
+
+{% hint style="danger" %}
+Take caution while using this command. Syncing data **will overwrite** data if the data is not the same.
+{% endhint %}
 
