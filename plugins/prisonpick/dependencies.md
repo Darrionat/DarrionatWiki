@@ -14,11 +14,13 @@ PrisonPick also has a soft dependency on [TokenManager ](https://www.spigotmc.or
 
 ### TokenManager
 
-TokenManager is an economy plugin that PrisonPick can use for upgrading [enchantments](enchantments.md). This will replace the default currency of EXP levels. This can be enabled in the [config.yml](configuration-files/config.yml-1.0.2.md).
+TokenManager is an economy plugin that PrisonPick can use for upgrading [enchantments](enchantments.md). This will replace the default currency of EXP levels. This can be enabled in the [config.yml](configuration-files/config.yml-1.0.2.md).  
+[https://www.spigotmc.org/resources/tokenmanager.8610/](https://www.spigotmc.org/resources/tokenmanager.8610/)
 
 ### Vault
 
-_Vault Support Coming Soon_
+Vault is an economy plugin that PrisonPick can use for upgrading enchantments.  
+Download here: [https://www.spigotmc.org/resources/vault.34315/](https://www.spigotmc.org/resources/vault.34315/)
 
 ### XSeries
 

@@ -19,6 +19,10 @@ When the player breaks a block, the plugin can do the following things, if they 
 When a player mines, blocks will be directly put into their inventory. This can be applied to all blocks that are broken by the player. Drops will also be changed according to what level of [Fortune](enchantments.md#fortune) the player is using.  
 If the player's inventory is full, by default, drops will be dropped on the ground - this is configurable.
 
+#### Autosell
+
+When the setting `blockBreak.itemsToInventory.autosell` is enabled in the [config.yml](configuration-files/config.yml-1.0.2.md), if the player is able to sell the material that they are collecting, the material will be sold instead of being given to the player. For detailed information on how it's determined if a player can autosell an item, click [here](autosell.md).
+
 #### EXP to Inventory
 
 When a player mines, any experience that is dropped will directly be given to the player.
