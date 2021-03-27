@@ -13,7 +13,7 @@ The console will only be able to use  the commands that are marked **true** 'Con
 | **Command** | **Description** | Console Can Use |
 | :--- | :--- | :--- |
 | /ce | Displays the current version | **true** |
-| /ce help \[page\] | Returns a page of help messages | **true** |
+| /ce help \[page\] | Returns a page of help messages | true |
 | /ce placetable | Places a custom enchantment table - Opens GUI |  |
 | /ce removetable | Removes a custom enchantment table |  |
 | /ce placeanvil | Places a custom enchantment table - Opens GUI |  |
@@ -22,7 +22,7 @@ The console will only be able to use  the commands that are marked **true** 'Con
 | /ce removetinkerer | Removes custom tinkerer |  |
 | /ce reload | Reloads the config.yml and holograms \(if enabled\) | **true** |
 | /ce \[enchant\] \[level\] | Adds a custom enchantment to an item |  |
-| /ce list | Displays a list of available enchantments, along with hover text | **true** |
+| /ce list | Displays a list of available enchantments, along with hover text | \*\*\*\* |
 | /ce enablegui \[gui\] | Enable a particular gui | **true** |
 | /ce disablegui \[gui\] | Disable a particular gui | **true** |
 | /ce enableworld \[world\] | Enables the world the player is currently in. \[world\] is optional for players, but required for the console. | **true** |
