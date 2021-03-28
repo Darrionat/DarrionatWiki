@@ -25,7 +25,7 @@ Spigot MC: [https://www.spigotmc.org/resources/custom-enchants-plus.72678/](http
   * [Tinkerer ](guis.md#the-tinkerer)- Exchange Enchants for EXP
   * [Anvil ](guis.md#the-anvil)- Forge Items Together
 * [Highly Configurable](configuration-files/)
-* 1.12-1.16.x Support
+* 1.8.8-1.16.x Support
 * [Advanced Commands](commands-and-permissions.md)
 * No Hard Dependencies
 * [ActionBar Integration](trivia.md#actionbar)
