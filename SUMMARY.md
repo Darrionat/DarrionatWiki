@@ -47,6 +47,15 @@
   * [Placeholders](plugins/prisonpick/placeholders.md)
   * [Saving Data](plugins/prisonpick/saving-data.md)
 
+## Libraries
+
+* [PluginLib](libraries/pluginlib/README.md)
+  * [Creating Your Plugin](libraries/pluginlib/creating-your-plugin.md)
+  * [Commands](libraries/pluginlib/commands.md)
+  * [Configs](libraries/pluginlib/configs.md)
+  * [ErrorHandler](libraries/pluginlib/errorhandler.md)
+  * [Gui](libraries/pluginlib/gui.md)
+
 ## Discord Bot
 
 * [SpigotMC Bot](discord-bot/spigotmc-bot/README.md)
