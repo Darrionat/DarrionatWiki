@@ -10,21 +10,40 @@ Scrolls are custom items that have special effects for [custom enchanted](enchan
 
 ### Enchantment Removal
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (7).png" alt="">
+
+</div>
 
 ### Enchantment Upgrade
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (15).png" alt="">
+
+</div>
 
 ### Item Rename
 
-![](../../.gitbook/assets/image%20%285%29.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (14).png" alt="">
+
+</div>
 
 ### Item Repair
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (13).png" alt="">
+
+</div>
 
 ### Slot Upgrade
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+<div align="left">
 
+<img src="../../.gitbook/assets/image (8).png" alt="">
+
+</div>

@@ -1,14 +1,14 @@
 ---
-description: 'Custom enchants, scrolls, custom GUI''s, and more!'
+description: Custom enchants, scrolls, custom GUI's, and more!
 ---
 
 # Custom Enchants+
 
-![](../../.gitbook/assets/customenchantsplusnew.png)
+![](../../.gitbook/assets/CustomEnchantsPlusNew.png)
 
 ## Description
 
-Custom Enchants+ is a custom enchantment plugin that offers many unique, never-seen-before enchantments. Some enchantments have been created by suggestions, creativity, and inspiration from other enchantments. This plugin allows **customization** for all enchantments.  
+Custom Enchants+ is a custom enchantment plugin that offers many unique, never-seen-before enchantments. Some enchantments have been created by suggestions, creativity, and inspiration from other enchantments. This plugin allows **customization** for all enchantments.\
 
 
 ## Plugin Downloads & Changelogs
@@ -38,21 +38,38 @@ Spigot MC: [https://www.spigotmc.org/resources/custom-enchants-plus.72678/](http
 
 
 
-{% page-ref page="api.md" %}
+{% content-ref url="api.md" %}
+[api.md](api.md)
+{% endcontent-ref %}
 
-{% page-ref page="commands-and-permissions.md" %}
+{% content-ref url="commands-and-permissions.md" %}
+[commands-and-permissions.md](commands-and-permissions.md)
+{% endcontent-ref %}
 
-{% page-ref page="configuration-files/" %}
+{% content-ref url="configuration-files/" %}
+[configuration-files](configuration-files/)
+{% endcontent-ref %}
 
-{% page-ref page="custom-blocks.md" %}
+{% content-ref url="custom-blocks.md" %}
+[custom-blocks.md](custom-blocks.md)
+{% endcontent-ref %}
 
-{% page-ref page="dependencies.md" %}
+{% content-ref url="dependencies.md" %}
+[dependencies.md](dependencies.md)
+{% endcontent-ref %}
 
-{% page-ref page="enchants.md" %}
+{% content-ref url="enchants.md" %}
+[enchants.md](enchants.md)
+{% endcontent-ref %}
 
-{% page-ref page="guis.md" %}
+{% content-ref url="guis.md" %}
+[guis.md](guis.md)
+{% endcontent-ref %}
 
-{% page-ref page="scrolls.md" %}
+{% content-ref url="scrolls.md" %}
+[scrolls.md](scrolls.md)
+{% endcontent-ref %}
 
-{% page-ref page="trivia.md" %}
-
+{% content-ref url="trivia.md" %}
+[trivia.md](trivia.md)
+{% endcontent-ref %}

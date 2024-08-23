@@ -8,7 +8,7 @@ PrisonPick completely changes your Prison server and will add a fun new leveling
 
 Fully supporting players having the same pickaxe over Bungee by using a MySQL database. Upgrades can be bought with experience levels, tokens from TokenManager, or in the future currency from Vault. A PAPI expansion can also be used to fetch player statistics.
 
-![Example of a player&apos;s pickaxe](../../.gitbook/assets/javaw_8pfbduci4l.png)
+![Example of a player's pickaxe](../../.gitbook/assets/javaw\_8pFbDucI4L.png)
 
 ### Features
 
@@ -25,22 +25,37 @@ Fully supporting players having the same pickaxe over Bungee by using a MySQL da
 * Automatically [give player dropped experience](inventory-management.md#exp-to-inventory)
 
 {% hint style="info" %}
-Note: throughout the PrisonPick Wiki, the words "custom item" are used instead of "pickaxe." This is explained in the warning [here](configuration-files/config.yml-1.0.2.md). 
+Note: throughout the PrisonPick Wiki, the words "custom item" are used instead of "pickaxe." This is explained in the warning [here](configuration-files/config.yml-1.0.2.md).&#x20;
 {% endhint %}
 
-{% page-ref page="commands-and-permissions.md" %}
+{% content-ref url="commands-and-permissions.md" %}
+[commands-and-permissions.md](commands-and-permissions.md)
+{% endcontent-ref %}
 
-{% page-ref page="configuration-files/" %}
+{% content-ref url="configuration-files/" %}
+[configuration-files](configuration-files/)
+{% endcontent-ref %}
 
-{% page-ref page="dependencies.md" %}
+{% content-ref url="dependencies.md" %}
+[dependencies.md](dependencies.md)
+{% endcontent-ref %}
 
-{% page-ref page="enchantments.md" %}
+{% content-ref url="enchantments.md" %}
+[enchantments.md](enchantments.md)
+{% endcontent-ref %}
 
-{% page-ref page="guis.md" %}
+{% content-ref url="guis.md" %}
+[guis.md](guis.md)
+{% endcontent-ref %}
 
-{% page-ref page="inventory-management.md" %}
+{% content-ref url="inventory-management.md" %}
+[inventory-management.md](inventory-management.md)
+{% endcontent-ref %}
 
-{% page-ref page="placeholders.md" %}
+{% content-ref url="placeholders.md" %}
+[placeholders.md](placeholders.md)
+{% endcontent-ref %}
 
-{% page-ref page="saving-data.md" %}
-
+{% content-ref url="saving-data.md" %}
+[saving-data.md](saving-data.md)
+{% endcontent-ref %}

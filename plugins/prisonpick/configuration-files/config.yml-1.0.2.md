@@ -5,8 +5,8 @@ description: 1.0.2
 # config.yml
 
 {% hint style="danger" %}
-Within the config.yml the material of the pickaxe can be changed to any material. However, it is **highly recommended** to **ONLY** use a pickaxe material. Using a different material such as _OAK\_LOG_ could potentially lead to unexpected bugs or effects, mainly with enchantments.  
-  
+Within the config.yml the material of the pickaxe can be changed to any material. However, it is **highly recommended** to **ONLY** use a pickaxe material. Using a different material such as _OAK\_LOG_ could potentially lead to unexpected bugs or effects, mainly with enchantments.\
+\
 If you experience a bug by using a non-pickaxe material, you may make a bug report, but do not expect functionality to come to a specific item.
 {% endhint %}
 
@@ -14,7 +14,7 @@ If you experience a bug by using a non-pickaxe material, you may make a bug repo
 Within the custom item lore, the placeholder %owner% can be used to display the owner's username, and %minedBlocks% can be used to show the mined block stat of the owner.
 {% endhint %}
 
-```text
+```
 pickaxe:
   # The name of the pickaxe, %player% will be replaced with the owner's name
   name: '&6%player%s &ePickaxe'
@@ -94,4 +94,3 @@ mysql:
   username: root
   password: password
 ```
-

@@ -10,7 +10,11 @@ Trivia contains more hidden details but that are quite important to the plugin
 
 ### Action Bar
 
-![](../../.gitbook/assets/image%20%281%29.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (19).png" alt="">
+
+</div>
 
 The action bar is displayed right above a player's hot bar. It is displayed for most enchantments with cooldowns. It informs the user how long until their cooldown is over.
 
@@ -39,4 +43,3 @@ During the 5 second cooldown of explosive. The player may not shoot arrows. This
 ### Sounds and Particles
 
 Many enchantments have custom sounds or particles. Flaming Aura signals that the opponent has been set on fire with a sound. Lucky strike gives off of a flash effect whenever it hits.
-

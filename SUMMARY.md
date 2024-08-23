@@ -16,6 +16,7 @@
     * [cooldowns.yml](plugins/command-cooldown/configuration-files/cooldowns.yml.md)
     * [config.yml](plugins/command-cooldown/configuration-files/config.yml.md)
     * [messages.yml](plugins/command-cooldown/configuration-files/messages.yml.md)
+  * [MySQL](plugins/command-cooldown/mysql.md)
   * [Trivia](plugins/command-cooldown/trivia.md)
 * [Custom Enchants+](plugins/custom-enchants+/README.md)
   * [API](plugins/custom-enchants+/api.md)
@@ -70,4 +71,3 @@
 ## Support Me
 
 * [Patreon](https://www.patreon.com/join/Darrionat)
-

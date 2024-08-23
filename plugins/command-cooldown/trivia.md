@@ -10,5 +10,4 @@ Trivia contains more hidden details but that are quite important to the plugin
 
 ### bStats
 
-Command Cooldown utilizes bStats. This allows Darrionat to view the current standing of usage for the plugin.
-
+Command Cooldown utilizes bStats. This allows the developer to view the current standing of usage for the plugin.
