@@ -6,7 +6,7 @@ description: >-
 
 # Command Cooldown
 
-![](../../.gitbook/assets/Command-CooldownLogoNewSquare.png)
+![](../../.gitbook/assets/Command-Cooldown-Banner1.png)
 
 
 
